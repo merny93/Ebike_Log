@@ -1,5 +1,3 @@
-from sqlite3 import Time
-from subprocess import call
 import time
 from threading import Timer
 class RepeatedTimer(object):
